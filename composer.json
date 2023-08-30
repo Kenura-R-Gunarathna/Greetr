@@ -1,0 +1,18 @@
+{
+    "name": "kenura/greetr",
+    "description": "test package for laravel",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kenura\\Greetr\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kenura-R-Gunarathna",
+            "email": "kenuragunarathna@gmail.com"
+        }
+    ],
+    "require": {}
+}
